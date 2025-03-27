@@ -1,0 +1,35 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Arquivos do VS Code e extensões
+.vscode/
+*.code-workspace
+
+# Arquivo temporário do Code Runner
+tempCodeRunnerFile.py
+
+# PyInstaller - arquivos e pastas geradas ao empacotar
+dist/
+build/
+*.spec
+
+# Ambientes virtuais
+venv/
+.env/
+.env.bak
+.envrc
+
+# Arquivos de sistema (Windows/macOS/Linux)
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
