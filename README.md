@@ -10,6 +10,14 @@ Este projeto tem como objetivo implementar o algoritmo de preenchimento poligona
 
 ---
 
+## 🎥 Demonstração
+
+Veja o algoritmo Scanline em ação ao preencher um polígono desenhado pelo usuário:
+
+![Demonstração do PolyFill Scanline](demo.gif)
+
+---
+
 ## 🎯 Objetivos
 
 - Desenvolver uma interface gráfica simples e funcional.
